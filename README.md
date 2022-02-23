@@ -1,7 +1,7 @@
 
 ## [Docs](https://github.com/DevVali/Docs)
 
-[![Stars](https://img.shields.io/github/stars/DevVali/devvali.github.io)](https://github.com/DevVali/Docs/stargazers)
+[![Stars](https://img.shields.io/github/stars/DevVali/Docs)](https://github.com/DevVali/Docs/stargazers)
 [![Patreon](https://img.shields.io/badge/donate-Patreon-orange.svg)](https://www.patreon.com/xvali)
 [![Discord](https://discordapp.com/api/guilds/886548261748502538/widget.png)](https://discord.gg/dsTTyA7MuQ) 
 
