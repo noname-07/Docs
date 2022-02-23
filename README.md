@@ -8,7 +8,7 @@
 Free to use template for legally documents.
 
 ## Information
-Here you can find free to use as a template legally documents, such as Terms of Service, which you can use for you own application.
+Here you can find free to use templates for legally documents, such as Terms of Service, which you can use for you own application.
 <br>
 More we'll add in the near future.
 
