@@ -11,3 +11,5 @@ Free to use template for legally documents.
 You can simply use these documents just by copying the file source and changing application information.
 <br>
 HTML knowledge requried.
+<br>
+You can paste it to your own webpage.
