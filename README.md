@@ -13,7 +13,7 @@ Here you can find free to use templates for legally documents, such as Terms of 
 More we'll add in the near future.
 
 ## Resources
-These Documents were written by vidk#2010 and Koutňa#2010
+These Documents were written by vidk#0024 and Koutňa#2010
 
 ## Contact Us
 If you have any suggests or bug reports, contact us [here](https://devvali.github.io/html/contact.html).
